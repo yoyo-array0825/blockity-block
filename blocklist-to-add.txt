@@ -1,5 +1,6 @@
 # blacklist-adds
-
+android.com
+googlequicksearch.android.com
 wlord.org
 wowbabytoys.com
 jackofalltechs.com
