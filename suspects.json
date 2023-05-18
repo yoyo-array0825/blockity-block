@@ -1,6 +1,11 @@
-[{
-	"model": [{}],
-	"calls": [
-      { "domain": "balena.io", "response-ip": "44.207.78.112", "ping-client": "ubuntu-terminal" }
-    ]
-}]
+[
+	{
+		"model":[
+			{}
+		],
+		"call-log": [
+			{ "domain": "balena.io", "response-ip": "44.207.78.112", "ping-client": "ubuntu-terminal"
+			}
+		]
+	}
+]
