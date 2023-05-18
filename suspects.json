@@ -4,8 +4,7 @@
 			{}
 		],
 		"call-log": [
-			{ "domain": "balena.io", "response-ip": "44.207.78.112", "ping-client": "ubuntu-terminal"
-			}
+			{ "domain": "balena.io", "response-ip": "44.207.78.112", "ping-client": "ubuntu-terminal" }
 		]
 	}
 ]
