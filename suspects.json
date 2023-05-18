@@ -1,11 +1,8 @@
-{
-  "1p": [
-    {
-      "ping-data": [
-        "balena.io",
-        "ubuntu-terminal",
-        "44.207.78.112"
-      ]
-    }
-  ]
-}
+[{
+	"model": {},
+	"data": {
+		"1": {
+			"ping-data": ["balena.io", "ubuntu-terminal", "44.207.78.112"]
+		}
+	}
+}]
